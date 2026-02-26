@@ -18,10 +18,10 @@ The dashboard transforms **5,000+ structured transaction records (2020–2026)**
 
 ---
 
-# 🌐 Live Interactive Dashboard
+## 🌐 Live Interactive Dashboard
 
 🚀 **View the Live Power BI Dashboard Here:**  
-👉 [Click to Open Dashboard]([YOUR_POWER_BI_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiYWI1YzIxNmItMWJmNi00NTFiLWIxZmEtMjcxNWU4OTA4YTY3IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D))
+👉 [Click to Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWI1YzIxNmItMWJmNi00NTFiLWIxZmEtMjcxNWU4OTA4YTY3IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 *(Hosted via Power BI Service – Public Access Enabled)*
 
