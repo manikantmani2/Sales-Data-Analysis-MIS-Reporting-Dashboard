@@ -6,7 +6,7 @@
 
 ## 👤 Author
 **Manikant Sharma**  
-Power BI | Business Operations Intern | Data Analytics 
+Power BI | Operations Intern | Data Analytics 
 
 ---
 
@@ -120,7 +120,7 @@ Structured using a **Star Schema data model** for scalable reporting.
 
 ## 💼 Business Impact
 
-- Reduced manual MIS reporting effort by ~**30%**  
+- Reduced manual MIS reporting effort by **30%**  
 - Enabled **6-year performance comparison**  
 - Automated KPI tracking system  
 - Improved strategic decision-making  
@@ -136,7 +136,7 @@ Structured using a **Star Schema data model** for scalable reporting.
 ![Details](Details.pdf)
 
 ### Data Model Structure
-![Data Model](Screenshot- Data_Model_Structure.png)
+![Data Model]([Screenshot- Data_Model_Structure.png](https://github.com/manikantmani2/Sales-Data-Analysis-MIS-Reporting-Dashboard/blob/main/Screenshot-%20Data_Model_Structure.png))
 
 ---
 
