@@ -130,13 +130,13 @@ Structured using a **Star Schema data model** for scalable reporting.
 ## 🖼 Dashboard Snapshots
 
 ### Overview Page
-![Overview](Overview.pdf)
+📊[Overview](Overview.pdf)
 
 ### Detailed Analysis Page
-![Details](Details.pdf)
+📉[Details](Details.pdf)
 
 ### Data Model Structure
-!([Data Model](https://github.com/manikantmani2/Sales-Data-Analysis-MIS-Reporting-Dashboard/blob/main/Screenshot-%20Data_Model_Structure.png))
+📅[Data Model](https://github.com/manikantmani2/Sales-Data-Analysis-MIS-Reporting-Dashboard/blob/main/Screenshot-%20Data_Model_Structure.png)
 
 ---
 
@@ -175,3 +175,10 @@ It showcases strong capabilities in:
 ---
 
 ⭐ Feel free to explore the live dashboard and connect for collaboration.
+
+📧 2200030839cser@gmail.com  
+🐙 [@manikantmani2](https://github.com/manikantmani2)
+💼 [LinkedIn](https://www.linkedin.com/in/manikant-sharma-14252425a/)
+---
+
+<div align="center">Made with ❤️ by Manikant Sharma</div>
