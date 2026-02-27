@@ -136,7 +136,7 @@ Structured using a **Star Schema data model** for scalable reporting.
 ![Details](Details.pdf)
 
 ### Data Model Structure
-![Data Model]([Screenshot- Data_Model_Structure.png](https://github.com/manikantmani2/Sales-Data-Analysis-MIS-Reporting-Dashboard/blob/main/Screenshot-%20Data_Model_Structure.png))
+!([Data Model](https://github.com/manikantmani2/Sales-Data-Analysis-MIS-Reporting-Dashboard/blob/main/Screenshot-%20Data_Model_Structure.png))
 
 ---
 
